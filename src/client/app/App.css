@@ -1,0 +1,12 @@
+.app {
+  background-color: green;
+  height: 50px;
+  border: 1px solid blue;
+  font-family: courier;
+  font-size: 25px;
+}
+
+.bap {
+  background-color: red;
+  height: 25px;
+}
